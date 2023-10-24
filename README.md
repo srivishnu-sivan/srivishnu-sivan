@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Vuejs 
 - 🌱 I’m currently learning Django, Node, Python, React, PostgreSQL
-- 👯 I’m looking to collaborate on Django, VueJS, Reactjs, Javascript
+- 👯 I’m looking to collaborate on Django, VueJS, Reactjs, Javascript, TypeScript
 - 🤔 I’m looking for help with Django, Node
 - 💬 Ask me about Vue js and Javascript
 - 📫 How to reach me: mallikasrivishnu@gmail.com
