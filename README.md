@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sri Vishnu Sivan</h1>
-<h3 align="center">A passionate developer from India aiming for Something really BIG </h3>
+<h3 align="center">A passionate developer with a vision to achieve something BIG—really BIG!</h3>
 
 - 🔭 I’m currently working on [Qspiders Webiste](https://devplaced.qspiders.com/)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **mallikasrivishnu@gmail.com**
 
-- ⚡ Fun fact **I wrote couple of books about Love and autobiography**
+- ⚡ Fun fact **I wrote a couple of books about Love and autobiography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
