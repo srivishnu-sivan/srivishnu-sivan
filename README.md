@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Qspiders Webiste](https://devplaced.qspiders.com/)
 
-- 🌱 I’m currently learning **Next js**
+- 🌱 I’m currently learning **Next js** and **Golang**
 
 - 🤝 I’m looking for help with **Go and Django**
 
-- 💬 Ask me about **Vue.js and Nuxt.Js, maybe after 3 months you can ask about Next.Js**
+- 💬 Ask me about **Vue.js and Nuxt.Js, maybe after 3 months you can ask about Next.Js and Golang**
 
 - 📫 How to reach me **mallikasrivishnu@gmail.com**
 
