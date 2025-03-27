@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Go and Django**
 
-- 💬 Ask me about **Vue.js and Nuxt.Js, maybe after 3 months you can ask about Next.Js and Golang**
+- 💬 Ask me about **Vue.js and Nuxt.Js, maybe after 3 months you can even ask about Next.Js and Golang**
 
 - 📫 How to reach me **mallikasrivishnu@gmail.com**
 
